@@ -1,0 +1,79 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAD+/u7u7u7u7u7h7u7u7v7+/v7+/v7+7uHu7u7h7uH+/u7u/v7+/u7u7u7u7u7u7u7u7v7+/v7u7u7v7+Hu4f7+7h7+/v7+7uHu7+/u7u7+/u7u7u7u/v7u7u7u7u/v4e7v7/7+Hv7+7h7u7uHv7+7u7+/+/u7u7u7u7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile1"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAB37u7u7u7u7nfg7u7u7u7gcHfu7u7g7u537u7u7u7u7ufu7u7u7u7ud+7u7u7u7u4H5+7u7u4O7ncH7u7u7u7ud37u7u7u7g537u7u7u7u7nd35+7u7u7ucO7u7u7u7u53cO7u7u7g7nfn7u7u7u7g5+7u7u7u7u5w5+7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile2"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAAA////z/z/D/BOTk7/7M7/7+Tk5P/s7v9PTk5O/+zuD+/k5OT/7O4PT05OTv/s7g/v5OTk/8/uD+/u7u7N/O4P7+7u7s387g/v5OTk/8/uD09OTk7/7O4P7+Tk5P/s7g9PTk5O/+zuD+/k5OT/7O7/8E5OTv/szv8A////z/z/Dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Treasure"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFUAAAAAAABVVQUAAAAAUFVVVQAAAABV9VVfBQAAAFX//18FAAAAVVVVXwUAAABQVVVVAAAAAABVVQUAAAAAAFBVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "1goldcoin"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAEREAAAAAAA0MyREAAAAMDMzMyIEAAA0MzMzI0IAADQzIyIzQgBANDMiIiIiBEBFIiJEJCIEQEUiQkREIgRARCJCREQiBABEEUJEREIAAEQRRUQkQgAAQFRVREIEAAAARERERAAAAAAAREQAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "fire energy down"
+    },
+    "tile6": {
+        "data": "hwQQABAAAABVVVVVVVVVVVVV//VVVVVVVfX19VVVVVVV9fVfVf//X1VVVVX1VV9VVfVVVfVV/1VV9f//Vf9VX1X1VVVVVVVVVVVVVfVVVVVVVf//9f//X1X1VV/1VVVVVfVVX1VVVVVVVf//VVVVVVVVVVVVVVVVVVVVX1VVVVVVVVVfVVVVVQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "start"
+    },
+    "tile7": {
+        "data": "hwQQABAAAACIiIiIiIiIiIiIWFFRiIiIiIgYWBiIiIiIiFiIWIiIiIiIiIWIiIiIiIiIUVGIiIiIiIgYiIiIiIiIiFhRiIiIiIiIiIiIiIiIiIhYUYiIiIiIiBgYiIiIiIhYUVGIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "End"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA2MDEwNjAxMDYwMTA2MDEwNjAxMDYwMTA2MDEwNjAxMDEwNTAwMDYwNDAwMDAwNjBlMDAwMDA1MDAwMDA2MDYwZjAwMDAwNjAwMDAwNTA2MDQwMDAwMDAwMDAwMDYwMTAxMDAwNTA2MDAwMDAwMDYwMDAwMDQwNjAwMDQwMDA2MDYwMDAwMDEwNjA2MDQwNjAwMDAwMDA2MDUwMDAwMDEwMTAwMDAwNjAwMDAwMDA2MDEwMDAwMDYwMDAwMDQwNjA2MDAwMDAwMDQwMDA1MDYwZTAwMDAwMTA0MDAwMDAxMDEwMDA1MDYwMDAwMDAwNjA1MDQwMDA2MDYwNjAwMDYwNjAwMDAwNjAyMDQwMDAwMDAwMDBlMDYwNTA2MDAwMTAxMDAwMDAxMDYwNjAxMDYwMTA2MDYwNjA0MDYwMDA2MDYwMDAwMDcwZDAwMDAwMDA2MDQwNTA2MDAwNjAwMDEwMTA0MDAwODEwMDMwYzAwMDYwMDA0MDYwMDA0MDAwNjA2MDAwNDA5MGEwYTBiMDAwMDAwMGUwNjA2MDYwMDAxMDEwMDAwMDYwMTBlMDAwMDA2MDYwMTA2MDAwMDAwMDYwNjA1MDQwNjAxMDUwMDA0MDAwMDAwMDAwNDAwMDUwMTAxMDYwMTA2MDEwNjAxMDYwMTA2MDEwNjAxMDYwMTA2MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile1",
+            "myTiles.tile2",
+            "myTiles.tile3",
+            "myTiles.tile4",
+            "myTiles.tile5",
+            "sprites.dungeon.floorDark0",
+            "sprites.dungeon.greenOuterNorthWest",
+            "sprites.dungeon.greenOuterWest1",
+            "sprites.dungeon.greenOuterSouthEast",
+            "sprites.dungeon.greenOuterSouth0",
+            "sprites.dungeon.greenOuterSouthWest",
+            "sprites.dungeon.greenOuterEast1",
+            "sprites.dungeon.greenOuterNorth0",
+            "sprites.dungeon.collectibleInsignia",
+            "myTiles.tile6",
+            "myTiles.tile7"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
